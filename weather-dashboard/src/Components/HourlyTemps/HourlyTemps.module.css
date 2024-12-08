@@ -1,0 +1,16 @@
+
+  
+  .hourlyTempCard {
+    background: #f3f8ff;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hourlyTempCard:hover {
+    background: #c1e24a;
+    color: white;
+    transform: scale(1.05);
+    transition: 0.3s;
+  }

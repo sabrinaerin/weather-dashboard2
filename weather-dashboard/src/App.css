@@ -1,0 +1,33 @@
+
+
+.backButton {
+  font-size: 1.5rem;
+  padding: 15px 30px; 
+  background-color: #ffb444; 
+  color: white;
+  border: none;
+  border-radius: 8px; 
+  cursor: pointer;
+  text-align: center;
+  margin-top: 20px;
+  display: inline-block; 
+}
+
+.backButton:hover {
+  background-color: #45a049; 
+}
+/* Center Weather Details Card */
+.weatherDetailsCard {
+  width: 80%; 
+  max-width: 500px; 
+  margin: 0 auto; 
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.9); 
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
